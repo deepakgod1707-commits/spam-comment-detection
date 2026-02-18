@@ -43,15 +43,6 @@ This project allows users to upload a CSV file containing comments. The system a
 ```bash
 pip install -r requirements.txt
 python app.py
-```
-
-Open in browser:
-
-```
-http://127.0.0.1:5000/
-```
-
----
 
 A lightweight and beginner-friendly AI project demonstrating how Machine Learning can be integrated into a real web application.
 
